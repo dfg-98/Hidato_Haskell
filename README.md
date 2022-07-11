@@ -1,5 +1,9 @@
 # Hidato Haskell
 
+Autors: 
+- Darío Fragas
+- Victor Amador
+
 ## Prerequisites
 
 - Stack
